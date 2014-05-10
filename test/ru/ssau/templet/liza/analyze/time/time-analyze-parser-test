@@ -1,0 +1,1482 @@
+
+mgt1: 
+                                                                                  Req'd    Req'd       Elap
+Job ID                  Username    Queue    Jobname          SessID  NDS   TSK   Memory   Time    S   Time
+----------------------- ----------- -------- ---------------- ------ ----- ------ ------ --------- - ---------
+62899.mgt1              makar       ansys    3222               4920     1      1    --   99:00:00 R  83:34:20
+63154.mgt1              tisarev     batch    cfxgui            28297     1      8    --   60:00:00 R  09:53:43
+n1
+     state = down
+     np = 8
+     properties = ddr
+     ntype = cluster
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n2
+     state = down
+     np = 8
+     properties = ddr
+     ntype = cluster
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n3
+     state = down
+     np = 8
+     properties = ddr
+     ntype = cluster
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n4
+     state = down
+     np = 8
+     properties = ddr
+     ntype = cluster
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n5
+     state = down
+     np = 8
+     properties = ddr
+     ntype = cluster
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n6
+     state = down
+     np = 8
+     properties = ddr
+     ntype = cluster
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n7
+     state = down
+     np = 8
+     properties = ddr
+     ntype = cluster
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n8
+     state = down
+     np = 8
+     properties = ddr
+     ntype = cluster
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n9
+     state = down
+     np = 8
+     properties = ddr
+     ntype = cluster
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n10
+     state = down
+     np = 8
+     properties = ddr
+     ntype = cluster
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n11
+     state = down
+     np = 8
+     properties = ddr
+     ntype = cluster
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n12
+     state = down
+     np = 8
+     properties = ddr
+     ntype = cluster
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n13
+     state = down
+     np = 8
+     properties = ddr
+     ntype = cluster
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n14
+     state = down
+     np = 8
+     properties = ddr
+     ntype = cluster
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n15
+     state = free
+     np = 8
+     properties = ddr
+     ntype = cluster
+     status = rectime=1384033217,varattr=,jobs=,state=free,netload=1180421532,gres=,loadave=0.04,ncpus=8,physmem=12273152kb,availmem=81269084kb,totmem=82581584kb,idletime=983805,nusers=0,nsessions=0,uname=Linux n15 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n16
+     state = free
+     np = 8
+     properties = ddr
+     ntype = cluster
+     status = rectime=1384033233,varattr=,jobs=,state=free,netload=991461676,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=82000608kb,totmem=82581584kb,idletime=983820,nusers=0,nsessions=0,uname=Linux n16 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n17
+     state = free
+     np = 8
+     properties = ddr
+     ntype = cluster
+     status = rectime=1384033222,varattr=,jobs=,state=free,netload=1048768667,gres=,loadave=0.04,ncpus=8,physmem=12273152kb,availmem=81254584kb,totmem=82581584kb,idletime=983810,nusers=1,nsessions=1,sessions=8351,uname=Linux n17 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n18
+     state = free
+     np = 8
+     properties = ddr
+     ntype = cluster
+     status = rectime=1384033207,varattr=,jobs=,state=free,netload=1553693920,gres=,loadave=0.02,ncpus=8,physmem=12273152kb,availmem=80602832kb,totmem=82581584kb,idletime=983794,nusers=0,nsessions=0,uname=Linux n18 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n19
+     state = free
+     np = 8
+     properties = ddr
+     ntype = cluster
+     status = rectime=1384033235,varattr=,jobs=,state=free,netload=1086829724,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=81332296kb,totmem=82581584kb,idletime=983821,nusers=0,nsessions=0,uname=Linux n19 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n20
+     state = free
+     np = 8
+     properties = ddr
+     ntype = cluster
+     status = rectime=1384033217,varattr=,jobs=,state=free,netload=998255203,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=81270460kb,totmem=82581584kb,idletime=983801,nusers=0,nsessions=0,uname=Linux n20 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n21
+     state = free
+     np = 8
+     properties = ddr
+     ntype = cluster
+     status = rectime=1384033217,varattr=,jobs=,state=free,netload=1302832958,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=81267864kb,totmem=82581584kb,idletime=983805,nusers=1,nsessions=2,sessions=8385 16177,uname=Linux n21 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n22
+     state = free
+     np = 8
+     properties = ddr
+     ntype = cluster
+     status = rectime=1384033218,varattr=,jobs=,state=free,netload=1112011533,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=81270316kb,totmem=82581584kb,idletime=983807,nusers=0,nsessions=0,uname=Linux n22 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n23
+     state = free
+     np = 8
+     properties = ddr
+     ntype = cluster
+     status = rectime=1384033207,varattr=,jobs=,state=free,netload=1006934604,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=81993360kb,totmem=82581584kb,idletime=983794,nusers=1,nsessions=1,sessions=9950,uname=Linux n23 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n24
+     state = free
+     np = 8
+     properties = ddr
+     ntype = cluster
+     status = rectime=1384033213,varattr=,jobs=,state=free,netload=1105253881,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=81271308kb,totmem=82581584kb,idletime=983799,nusers=0,nsessions=0,uname=Linux n24 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n25
+     state = free
+     np = 8
+     properties = ddr
+     ntype = cluster
+     status = rectime=1384033230,varattr=,jobs=,state=free,netload=1003211461,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=81308952kb,totmem=82581584kb,idletime=983818,nusers=0,nsessions=0,uname=Linux n25 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n26
+     state = free
+     np = 8
+     properties = ddr
+     ntype = cluster
+     status = rectime=1384033245,varattr=,jobs=,state=free,netload=1301180296,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=81271208kb,totmem=82581584kb,idletime=983831,nusers=0,nsessions=0,uname=Linux n26 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n27
+     state = free
+     np = 8
+     properties = ddr
+     ntype = cluster
+     status = rectime=1384033206,varattr=,jobs=,state=free,netload=1464122543,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=81270848kb,totmem=82581584kb,idletime=983794,nusers=0,nsessions=0,uname=Linux n27 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n28
+     state = free
+     np = 8
+     properties = ddr
+     ntype = cluster
+     status = rectime=1384033234,varattr=,jobs=,state=free,netload=964568942,gres=,loadave=0.01,ncpus=8,physmem=12273152kb,availmem=82000800kb,totmem=82581584kb,idletime=983823,nusers=0,nsessions=0,uname=Linux n28 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n29
+     state = free
+     np = 8
+     properties = ddr
+     ntype = cluster
+     status = rectime=1384033206,varattr=,jobs=,state=free,netload=1120323093,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=81274120kb,totmem=82581584kb,idletime=983795,nusers=0,nsessions=0,uname=Linux n29 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n30
+     state = free
+     np = 8
+     properties = ddr
+     ntype = cluster
+     status = rectime=1384033235,varattr=,jobs=,state=free,netload=1550976875,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=80633272kb,totmem=82581584kb,idletime=983821,nusers=0,nsessions=0,uname=Linux n30 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n31
+     state = free
+     np = 8
+     properties = ddr
+     ntype = cluster
+     status = rectime=1384033219,varattr=,jobs=,state=free,netload=902382329,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=81268600kb,totmem=82581584kb,idletime=983805,nusers=0,nsessions=0,uname=Linux n31 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n32
+     state = free
+     np = 8
+     properties = ddr
+     ntype = cluster
+     status = rectime=1384033217,varattr=,jobs=,state=free,netload=1044950856,gres=,loadave=0.04,ncpus=8,physmem=12273152kb,availmem=81269104kb,totmem=82581584kb,idletime=983806,nusers=0,nsessions=0,uname=Linux n32 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n33
+     state = free
+     np = 8
+     properties = ddr
+     ntype = cluster
+     status = rectime=1384033210,varattr=,jobs=,state=free,netload=1343392180,gres=,loadave=0.05,ncpus=8,physmem=12273152kb,availmem=80581184kb,totmem=82581584kb,idletime=983798,nusers=0,nsessions=0,uname=Linux n33 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n34
+     state = free
+     np = 8
+     properties = ddr
+     ntype = cluster
+     status = rectime=1384033247,varattr=,jobs=,state=free,netload=1186112513,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=81270268kb,totmem=82581584kb,idletime=983834,nusers=0,nsessions=0,uname=Linux n34 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n35
+     state = free
+     np = 8
+     properties = tmp,ddr
+     ntype = cluster
+     status = rectime=1384033239,varattr=,jobs=,state=free,netload=1268033156,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54884152kb,totmem=56226952kb,idletime=983826,nusers=1,nsessions=1,sessions=29216,uname=Linux n35 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n36
+     state = free
+     np = 8
+     properties = tmp,ddr
+     ntype = cluster
+     status = rectime=1384033219,varattr=,jobs=,state=free,netload=1171324431,gres=,loadave=0.07,ncpus=8,physmem=12273152kb,availmem=54891208kb,totmem=56226952kb,idletime=983807,nusers=0,nsessions=0,uname=Linux n36 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n37
+     state = free
+     np = 8
+     properties = tmp,ddr
+     ntype = cluster
+     status = rectime=1384033228,varattr=,jobs=,state=free,netload=1097168132,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54885152kb,totmem=56226952kb,idletime=983813,nusers=1,nsessions=1,sessions=5118,uname=Linux n37 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n38
+     state = free
+     np = 8
+     properties = tmp,ddr
+     ntype = cluster
+     status = rectime=1384033216,varattr=,jobs=,state=free,netload=4901127729,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=51612924kb,totmem=56226952kb,idletime=983808,nusers=0,nsessions=0,uname=Linux n38 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n39
+     state = free
+     np = 8
+     properties = tmp,ddr
+     ntype = cluster
+     status = rectime=1384033203,varattr=,jobs=,state=free,netload=1548539023,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=52331180kb,totmem=56226952kb,idletime=983790,nusers=0,nsessions=0,uname=Linux n39 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n40
+     state = free
+     np = 8
+     properties = tmp,ddr
+     ntype = cluster
+     status = rectime=1384033211,varattr=,jobs=,state=free,netload=939482499,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54891344kb,totmem=56226952kb,idletime=983798,nusers=0,nsessions=0,uname=Linux n40 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n41
+     state = free
+     np = 8
+     properties = tmp,ddr
+     ntype = cluster
+     status = rectime=1384033202,varattr=,jobs=,state=free,netload=1709125885,gres=,loadave=0.05,ncpus=8,physmem=12273152kb,availmem=55658332kb,totmem=56226952kb,idletime=983789,nusers=0,nsessions=0,uname=Linux n41 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n42
+     state = free
+     np = 8
+     properties = tmp,ddr
+     ntype = cluster
+     status = rectime=1384033238,varattr=,jobs=,state=free,netload=1319008517,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54893168kb,totmem=56226952kb,idletime=983826,nusers=0,nsessions=0,uname=Linux n42 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n57
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033220,varattr=,jobs=,state=free,netload=1052463387,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54889148kb,totmem=56226952kb,idletime=179095,nusers=0,nsessions=0,uname=Linux n57 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n58
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033229,varattr=,jobs=,state=free,netload=1179691584,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54890152kb,totmem=56226952kb,idletime=983818,nusers=0,nsessions=0,uname=Linux n58 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n59
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033209,varattr=,jobs=,state=free,netload=1513861594,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54891824kb,totmem=56226952kb,idletime=983794,nusers=0,nsessions=0,uname=Linux n59 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n60
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033211,varattr=,jobs=,state=free,netload=1431332016,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54892556kb,totmem=56226952kb,idletime=983799,nusers=0,nsessions=0,uname=Linux n60 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n61
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033203,varattr=,jobs=,state=free,netload=1358158773,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54891220kb,totmem=56226952kb,idletime=983792,nusers=0,nsessions=0,uname=Linux n61 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n62
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033209,varattr=,jobs=,state=free,netload=1516529865,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=55656828kb,totmem=56226952kb,idletime=983797,nusers=0,nsessions=0,uname=Linux n62 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n63
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033208,varattr=,jobs=,state=free,netload=1333362261,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54884676kb,totmem=56226952kb,idletime=983797,nusers=1,nsessions=1,sessions=19354,uname=Linux n63 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n64
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033227,varattr=,jobs=,state=free,netload=1544427754,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=53377460kb,totmem=56226952kb,idletime=983813,nusers=0,nsessions=0,uname=Linux n64 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n65
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033211,varattr=,jobs=,state=free,netload=1125186881,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54890364kb,totmem=56226952kb,idletime=983795,nusers=0,nsessions=0,uname=Linux n65 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n66
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033236,varattr=,jobs=,state=free,netload=1693358891,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54894672kb,totmem=56226952kb,idletime=983824,nusers=0,nsessions=0,uname=Linux n66 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n67
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033202,varattr=,jobs=,state=free,netload=1260156943,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54881376kb,totmem=56226952kb,idletime=983791,nusers=1,nsessions=1,sessions=30640,uname=Linux n67 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n68
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033207,varattr=,jobs=,state=free,netload=1187357218,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54891120kb,totmem=56226952kb,idletime=983795,nusers=0,nsessions=0,uname=Linux n68 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n69
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033232,varattr=,jobs=,state=free,netload=1589985935,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=53006196kb,totmem=56226952kb,idletime=983821,nusers=0,nsessions=0,uname=Linux n69 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n70
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033227,varattr=,jobs=,state=free,netload=2312425155,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54883896kb,totmem=56226952kb,idletime=983814,nusers=1,nsessions=1,sessions=14285,uname=Linux n70 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n113
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033229,varattr=,jobs=,state=free,netload=1098569033,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54892088kb,totmem=56226952kb,idletime=981509,nusers=0,nsessions=0,uname=Linux n113 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n114
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033225,varattr=,jobs=,state=free,netload=1315359578,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=55655568kb,totmem=56226952kb,idletime=981548,nusers=0,nsessions=0,uname=Linux n114 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n115
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033233,varattr=,jobs=,state=free,netload=1319832657,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=50845520kb,totmem=56226952kb,idletime=981528,nusers=0,nsessions=0,uname=Linux n115 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n116
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033226,varattr=,jobs=,state=free,netload=2759335792,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54887656kb,totmem=56226952kb,idletime=981554,nusers=0,nsessions=0,uname=Linux n116 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n117
+     state = job-exclusive
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     jobs = 0/63154.mgt1,1/63154.mgt1,2/63154.mgt1,3/63154.mgt1,4/63154.mgt1,5/63154.mgt1,6/63154.mgt1,7/63154.mgt1
+     status = rectime=1384033207,varattr=,jobs=63154.mgt1,state=free,netload=4008269913,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54940716kb,totmem=56226952kb,idletime=1055455,nusers=1,nsessions=1,sessions=28297,uname=Linux n117 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n118
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     jobs = 0/62899.mgt1
+     status = rectime=1384033244,varattr=,jobs=62899.mgt1,state=free,netload=1771703356,gres=,loadave=1.00,ncpus=8,physmem=12273152kb,availmem=52648316kb,totmem=56226952kb,idletime=981829,nusers=1,nsessions=1,sessions=4920,uname=Linux n118 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n119
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033220,varattr=,jobs=,state=free,netload=19378336104,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=55649652kb,totmem=56226952kb,idletime=981518,nusers=0,nsessions=0,uname=Linux n119 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n120
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033222,varattr=,jobs=,state=free,netload=2175080781,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54876732kb,totmem=56226952kb,idletime=981543,nusers=1,nsessions=1,sessions=16772,uname=Linux n120 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n121
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033208,varattr=,jobs=,state=free,netload=1166338810,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54892272kb,totmem=56226952kb,idletime=981498,nusers=0,nsessions=0,uname=Linux n121 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n122
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033210,varattr=,jobs=,state=free,netload=915114585,gres=,loadave=0.05,ncpus=8,physmem=12273152kb,availmem=55655460kb,totmem=56226952kb,idletime=981532,nusers=0,nsessions=0,uname=Linux n122 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n123
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033208,varattr=,jobs=,state=free,netload=1156004210,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54884276kb,totmem=56226952kb,idletime=981503,nusers=1,nsessions=1,sessions=28490,uname=Linux n123 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n124
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033214,varattr=,jobs=,state=free,netload=1250285847,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54890252kb,totmem=56226952kb,idletime=981493,nusers=0,nsessions=0,uname=Linux n124 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n125
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033211,varattr=,jobs=,state=free,netload=1268572858,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=55654728kb,totmem=56226952kb,idletime=981503,nusers=0,nsessions=0,uname=Linux n125 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n126
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033232,varattr=,jobs=,state=free,netload=1305507689,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54881556kb,totmem=56226952kb,idletime=981507,nusers=1,nsessions=1,sessions=14766,uname=Linux n126 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n127
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033236,varattr=,jobs=,state=free,netload=1016912818,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54895864kb,totmem=56226952kb,idletime=983824,nusers=0,nsessions=0,uname=Linux n127 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n128
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033206,varattr=,jobs=,state=free,netload=1219981060,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54881592kb,totmem=56226952kb,idletime=983792,nusers=1,nsessions=1,sessions=28768,uname=Linux n128 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n129
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033215,varattr=,jobs=,state=free,netload=1429699990,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54242720kb,totmem=56226952kb,idletime=983802,nusers=0,nsessions=0,uname=Linux n129 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n130
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033229,varattr=,jobs=,state=free,netload=1143728470,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54882048kb,totmem=56226952kb,idletime=983816,nusers=1,nsessions=1,sessions=21725,uname=Linux n130 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n131
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033236,varattr=,jobs=,state=free,netload=962738261,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54879468kb,totmem=56226952kb,idletime=983823,nusers=1,nsessions=1,sessions=11578,uname=Linux n131 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n132
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033215,varattr=,jobs=,state=free,netload=1834773973,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=55652484kb,totmem=56226952kb,idletime=983802,nusers=0,nsessions=0,uname=Linux n132 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n133
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033206,varattr=,jobs=,state=free,netload=1201006669,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54882616kb,totmem=56226952kb,idletime=983795,nusers=1,nsessions=1,sessions=23770,uname=Linux n133 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n134
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033228,varattr=,jobs=,state=free,netload=1217758679,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=55645380kb,totmem=56226952kb,idletime=983815,nusers=1,nsessions=1,sessions=13730,uname=Linux n134 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n135
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033208,varattr=,jobs=,state=free,netload=1306745261,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54309056kb,totmem=56226952kb,idletime=983796,nusers=0,nsessions=0,uname=Linux n135 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n136
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033244,varattr=,jobs=,state=free,netload=1207278524,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54883696kb,totmem=56226952kb,idletime=983831,nusers=1,nsessions=1,sessions=24939,uname=Linux n136 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n137
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033245,varattr=,jobs=,state=free,netload=1177448288,gres=,loadave=0.03,ncpus=8,physmem=12273152kb,availmem=54885644kb,totmem=56226952kb,idletime=983833,nusers=1,nsessions=1,sessions=27433,uname=Linux n137 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n138
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033218,varattr=,jobs=,state=free,netload=1167821694,gres=,loadave=0.01,ncpus=8,physmem=12273152kb,availmem=54885220kb,totmem=56226952kb,idletime=983808,nusers=1,nsessions=1,sessions=29098,uname=Linux n138 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n139
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033240,varattr=,jobs=,state=free,netload=1162629024,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54890576kb,totmem=56226952kb,idletime=983828,nusers=0,nsessions=0,uname=Linux n139 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n140
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033216,varattr=,jobs=,state=free,netload=1072376893,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54879696kb,totmem=56226952kb,idletime=983803,nusers=1,nsessions=1,sessions=3148,uname=Linux n140 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n141
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033234,varattr=,jobs=,state=free,netload=1226065658,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54888624kb,totmem=56226952kb,idletime=983822,nusers=1,nsessions=1,sessions=11820,uname=Linux n141 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n142
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033220,varattr=,jobs=,state=free,netload=1529706069,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54882868kb,totmem=56226952kb,idletime=983504,nusers=1,nsessions=1,sessions=28242,uname=Linux n142 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n143
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033219,varattr=,jobs=,state=free,netload=4636630968,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=55651232kb,totmem=56226952kb,idletime=983807,nusers=0,nsessions=0,uname=Linux n143 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n144
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033241,varattr=,jobs=,state=free,netload=1857425290,gres=,loadave=0.01,ncpus=8,physmem=12273152kb,availmem=54032172kb,totmem=56226952kb,idletime=983828,nusers=0,nsessions=0,uname=Linux n144 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n145
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033212,varattr=,jobs=,state=free,netload=1345587164,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54888888kb,totmem=56226952kb,idletime=983800,nusers=0,nsessions=0,uname=Linux n145 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n146
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033239,varattr=,jobs=,state=free,netload=1169063939,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54893576kb,totmem=56226952kb,idletime=983827,nusers=0,nsessions=0,uname=Linux n146 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n147
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033227,varattr=,jobs=,state=free,netload=1387283455,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54877600kb,totmem=56226952kb,idletime=983815,nusers=1,nsessions=1,sessions=20936,uname=Linux n147 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n148
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033244,varattr=,jobs=,state=free,netload=1138351672,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54891276kb,totmem=56226952kb,idletime=983833,nusers=0,nsessions=0,uname=Linux n148 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n149
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033203,varattr=,jobs=,state=free,netload=1091317674,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54890844kb,totmem=56226952kb,idletime=983791,nusers=0,nsessions=0,uname=Linux n149 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n150
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033236,varattr=,jobs=,state=free,netload=1068314077,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54886736kb,totmem=56226952kb,idletime=983823,nusers=0,nsessions=0,uname=Linux n150 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n151
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033211,varattr=,jobs=,state=free,netload=1106230751,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54889016kb,totmem=56226952kb,idletime=983799,nusers=0,nsessions=0,uname=Linux n151 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n152
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033231,varattr=,jobs=,state=free,netload=2132113210,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54886316kb,totmem=56226952kb,idletime=983819,nusers=0,nsessions=0,uname=Linux n152 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n153
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033232,varattr=,jobs=,state=free,netload=1157812385,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54890600kb,totmem=56226952kb,idletime=983819,nusers=0,nsessions=0,uname=Linux n153 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n154
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033247,varattr=,jobs=,state=free,netload=965796876,gres=,loadave=0.01,ncpus=8,physmem=12273152kb,availmem=54895780kb,totmem=56226952kb,idletime=983835,nusers=0,nsessions=0,uname=Linux n154 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n155
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033210,varattr=,jobs=,state=free,netload=7032700952,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54869088kb,totmem=56226952kb,idletime=983801,nusers=1,nsessions=2,sessions=11731 20052,uname=Linux n155 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n156
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033225,varattr=,jobs=,state=free,netload=1100281646,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54894188kb,totmem=56226952kb,idletime=983808,nusers=0,nsessions=0,uname=Linux n156 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n157
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033217,varattr=,jobs=,state=free,netload=6970003675,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54878084kb,totmem=56226952kb,idletime=983806,nusers=1,nsessions=2,sessions=23250 27920,uname=Linux n157 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n158
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033204,varattr=,jobs=,state=free,netload=2033254575,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54890768kb,totmem=56226952kb,idletime=42372,nusers=0,nsessions=0,uname=Linux n158 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n159
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033203,varattr=,jobs=,state=free,netload=1355106188,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54226064kb,totmem=56226952kb,idletime=983791,nusers=0,nsessions=0,uname=Linux n159 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n160
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033243,varattr=,jobs=,state=free,netload=999276090,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54891952kb,totmem=56226952kb,idletime=983836,nusers=0,nsessions=0,uname=Linux n160 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n161
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033225,varattr=,jobs=,state=free,netload=979201432,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=55653200kb,totmem=56226952kb,idletime=983809,nusers=0,nsessions=0,uname=Linux n161 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n162
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033217,varattr=,jobs=,state=free,netload=11148875769,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54889212kb,totmem=56226952kb,idletime=983807,nusers=0,nsessions=0,uname=Linux n162 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n163
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033226,varattr=,jobs=,state=free,netload=1176749321,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54900672kb,totmem=56226952kb,idletime=983814,nusers=0,nsessions=0,uname=Linux n163 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n164
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033214,varattr=,jobs=,state=free,netload=1246157871,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54890372kb,totmem=56226952kb,idletime=983804,nusers=0,nsessions=0,uname=Linux n164 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n165
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033210,varattr=,jobs=,state=free,netload=927386748,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54878520kb,totmem=56226952kb,idletime=983795,nusers=1,nsessions=2,sessions=17051 17367,uname=Linux n165 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n166
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033238,varattr=,jobs=,state=free,netload=1029067783,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54893204kb,totmem=56226952kb,idletime=983827,nusers=0,nsessions=0,uname=Linux n166 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n167
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033226,varattr=,jobs=,state=free,netload=1144953838,gres=,loadave=0.03,ncpus=8,physmem=12273152kb,availmem=54894308kb,totmem=56226952kb,idletime=983814,nusers=0,nsessions=0,uname=Linux n167 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n168
+     state = free
+     np = 8
+     properties = tmp,qdr
+     ntype = cluster
+     status = rectime=1384033230,varattr=,jobs=,state=free,netload=1046679260,gres=,loadave=0.00,ncpus=8,physmem=12273152kb,availmem=54892800kb,totmem=56226952kb,idletime=983816,nusers=0,nsessions=0,uname=Linux n168 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n225
+     state = free
+     np = 12
+     properties = mem,qdr
+     ntype = cluster
+     status = rectime=1384033219,varattr=,jobs=,state=free,netload=1026162919,gres=,loadave=0.00,ncpus=12,physmem=24659148kb,availmem=24093200kb,totmem=24659148kb,idletime=983806,nusers=0,nsessions=0,uname=Linux n225 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n226
+     state = free
+     np = 12
+     properties = mem,qdr
+     ntype = cluster
+     status = rectime=1384033222,varattr=,jobs=,state=free,netload=1252519266,gres=,loadave=0.04,ncpus=12,physmem=24659148kb,availmem=24092656kb,totmem=24659148kb,idletime=983808,nusers=0,nsessions=0,uname=Linux n226 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n227
+     state = free
+     np = 12
+     properties = mem,qdr
+     ntype = cluster
+     status = rectime=1384033214,varattr=,jobs=,state=free,netload=1000004358,gres=,loadave=0.00,ncpus=12,physmem=24659148kb,availmem=24092864kb,totmem=24659148kb,idletime=983802,nusers=0,nsessions=0,uname=Linux n227 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n228
+     state = free
+     np = 12
+     properties = mem,qdr
+     ntype = cluster
+     status = rectime=1384033247,varattr=,jobs=,state=free,netload=716669186,gres=,loadave=0.00,ncpus=12,physmem=24659148kb,availmem=24094876kb,totmem=24659148kb,idletime=983838,nusers=0,nsessions=0,uname=Linux n228 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n229
+     state = free
+     np = 12
+     properties = mem,qdr
+     ntype = cluster
+     status = rectime=1384033222,varattr=,jobs=,state=free,netload=711015664,gres=,loadave=0.00,ncpus=12,physmem=24659148kb,availmem=24092504kb,totmem=24659148kb,idletime=983809,nusers=0,nsessions=0,uname=Linux n229 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n230
+     state = free
+     np = 12
+     properties = mem,qdr
+     ntype = cluster
+     status = rectime=1384033234,varattr=,jobs=,state=free,netload=817543539,gres=,loadave=0.00,ncpus=12,physmem=24659148kb,availmem=24091900kb,totmem=24659148kb,idletime=983825,nusers=0,nsessions=0,uname=Linux n230 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n231
+     state = free
+     np = 12
+     properties = mem,qdr
+     ntype = cluster
+     status = rectime=1384033233,varattr=,jobs=,state=free,netload=733721852,gres=,loadave=0.00,ncpus=12,physmem=24659148kb,availmem=24093472kb,totmem=24659148kb,idletime=983818,nusers=0,nsessions=0,uname=Linux n231 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n232
+     state = free
+     np = 12
+     properties = mem,qdr
+     ntype = cluster
+     status = rectime=1384033224,varattr=,jobs=,state=free,netload=1099012375,gres=,loadave=0.00,ncpus=12,physmem=24659148kb,availmem=24091732kb,totmem=24659148kb,idletime=983814,nusers=0,nsessions=0,uname=Linux n232 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n233
+     state = free
+     np = 12
+     properties = mem,qdr
+     ntype = cluster
+     status = rectime=1384033242,varattr=,jobs=,state=free,netload=744390089,gres=,loadave=0.00,ncpus=12,physmem=24659144kb,availmem=24091952kb,totmem=24659144kb,idletime=983830,nusers=0,nsessions=0,uname=Linux n233 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n234
+     state = free
+     np = 12
+     properties = mem,qdr
+     ntype = cluster
+     status = rectime=1384033221,varattr=,jobs=,state=free,netload=939293754,gres=,loadave=0.00,ncpus=12,physmem=24659144kb,availmem=24092696kb,totmem=24659144kb,idletime=110742,nusers=0,nsessions=0,uname=Linux n234 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n235
+     state = free
+     np = 12
+     properties = mem,qdr
+     ntype = cluster
+     status = rectime=1384033232,varattr=,jobs=,state=free,netload=1029553876,gres=,loadave=0.00,ncpus=12,physmem=24659144kb,availmem=24093992kb,totmem=24659144kb,idletime=983821,nusers=0,nsessions=0,uname=Linux n235 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n236
+     state = free
+     np = 12
+     properties = mem,qdr
+     ntype = cluster
+     status = rectime=1384033204,varattr=,jobs=,state=free,netload=1050492204,gres=,loadave=0.00,ncpus=12,physmem=24659144kb,availmem=24092276kb,totmem=24659144kb,idletime=983791,nusers=0,nsessions=0,uname=Linux n236 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n237
+     state = free
+     np = 12
+     properties = mem,qdr
+     ntype = cluster
+     status = rectime=1384033206,varattr=,jobs=,state=free,netload=784640439,gres=,loadave=0.00,ncpus=12,physmem=24659144kb,availmem=24093600kb,totmem=24659144kb,idletime=983793,nusers=0,nsessions=0,uname=Linux n237 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n238
+     state = free
+     np = 12
+     properties = mem,qdr
+     ntype = cluster
+     status = rectime=1384033232,varattr=,jobs=,state=free,netload=1040050993,gres=,loadave=0.00,ncpus=12,physmem=24659144kb,availmem=24091284kb,totmem=24659144kb,idletime=983821,nusers=0,nsessions=0,uname=Linux n238 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n239
+     state = free
+     np = 12
+     properties = bigmem,tmp,qdr
+     ntype = cluster
+     status = rectime=1384033208,varattr=,jobs=,state=free,netload=77490407336,gres=,loadave=0.00,ncpus=12,physmem=98976676kb,availmem=127677788kb,totmem=128279196kb,idletime=981511,nusers=0,nsessions=0,uname=Linux n239 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n240
+     state = free
+     np = 12
+     properties = bigmem,tmp,qdr
+     ntype = cluster
+     status = rectime=1384033236,varattr=,jobs=,state=free,netload=25267718906,gres=,loadave=0.00,ncpus=12,physmem=98976676kb,availmem=127679868kb,totmem=128279196kb,idletime=1054733,nusers=0,nsessions=0,uname=Linux n240 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n241
+     state = free
+     np = 12
+     properties = bigmem,tmp,qdr
+     ntype = cluster
+     status = rectime=1384033203,varattr=,jobs=,state=free,netload=25111832695,gres=,loadave=0.00,ncpus=12,physmem=98976676kb,availmem=127679024kb,totmem=128279196kb,idletime=983791,nusers=0,nsessions=0,uname=Linux n241 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n242
+     state = free
+     np = 12
+     properties = bigmem,tmp,qdr
+     ntype = cluster
+     status = rectime=1384033231,varattr=,jobs=,state=free,netload=1097051061,gres=,loadave=0.04,ncpus=12,physmem=98976676kb,availmem=127681188kb,totmem=128279196kb,idletime=981514,nusers=0,nsessions=0,uname=Linux n242 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n243
+     state = free
+     np = 12
+     properties = gpu,qdr
+     ntype = cluster
+     status = rectime=1384033233,varattr=,jobs=,state=free,netload=853500606,gres=,loadave=0.01,ncpus=12,physmem=24659144kb,availmem=53364356kb,totmem=53961664kb,idletime=981533,nusers=0,nsessions=0,uname=Linux n243 2.6.18-308.13.1.el5 #1 SMP Thu Jul 26 05:45:09 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+     gpus = 2
+
+n246
+     state = free
+     np = 12
+     properties = bigmem,tmp,qdr
+     ntype = cluster
+     status = rectime=1384033216,varattr=,jobs=,state=free,netload=44047142308,gres=,loadave=0.00,ncpus=12,physmem=98976676kb,availmem=127678496kb,totmem=128279196kb,idletime=1054710,nusers=0,nsessions=0,uname=Linux n246 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n247
+     state = free
+     np = 12
+     properties = bigmem,tmp,qdr
+     ntype = cluster
+     status = rectime=1384033236,varattr=,jobs=,state=free,netload=999354001,gres=,loadave=0.06,ncpus=12,physmem=98976676kb,availmem=127681416kb,totmem=128279196kb,idletime=981537,nusers=0,nsessions=0,uname=Linux n247 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n248
+     state = free
+     np = 12
+     properties = bigmem,tmp,qdr
+     ntype = cluster
+     status = rectime=1384033227,varattr=,jobs=,state=free,netload=1986390065,gres=,loadave=0.06,ncpus=12,physmem=98976676kb,availmem=127682460kb,totmem=128279196kb,idletime=983813,nusers=0,nsessions=0,uname=Linux n248 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n249
+     state = free
+     np = 12
+     properties = bigmem,tmp,qdr
+     ntype = cluster
+     status = rectime=1384033203,varattr=,jobs=,state=free,netload=6775131129,gres=,loadave=0.00,ncpus=12,physmem=98976676kb,availmem=127680720kb,totmem=128279196kb,idletime=981525,nusers=0,nsessions=0,uname=Linux n249 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n250
+     state = free
+     np = 12
+     properties = gpu,qdr
+     ntype = cluster
+     status = rectime=1384033229,varattr=,jobs=,state=free,netload=1055129773,gres=,loadave=0.00,ncpus=12,physmem=24659144kb,availmem=53361540kb,totmem=53961664kb,idletime=981529,nusers=0,nsessions=0,uname=Linux n250 2.6.18-308.13.1.el5 #1 SMP Thu Jul 26 05:45:09 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+     gpus = 2
+
+n251
+     state = free
+     np = 80
+     properties = mem1T,tmp,qdr
+     ntype = cluster
+     status = rectime=1384033226,varattr=,jobs=,state=free,netload=1756042314,gres=,loadave=0.02,ncpus=80,physmem=1055290004kb,availmem=1054469144kb,totmem=1055290004kb,idletime=379273,nusers=0,nsessions=0,uname=Linux n251 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n281
+     state = free
+     np = 16
+     properties = mem32,tmp,qdr
+     ntype = cluster
+     status = rectime=1384033214,varattr=,jobs=,state=free,netload=788768766,gres=,loadave=0.00,ncpus=16,physmem=32918696kb,availmem=76271180kb,totmem=76880528kb,idletime=1054630,nusers=0,nsessions=0,uname=Linux n281 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n282
+     state = free
+     np = 16
+     properties = mem32,tmp,qdr
+     ntype = cluster
+     status = rectime=1384033224,varattr=,jobs=,state=free,netload=927749836,gres=,loadave=0.00,ncpus=16,physmem=32918696kb,availmem=76277212kb,totmem=76880528kb,idletime=1054704,nusers=1,nsessions=1,sessions=4075,uname=Linux n282 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n283
+     state = free
+     np = 16
+     properties = mem32,tmp,qdr
+     ntype = cluster
+     status = rectime=1384033202,varattr=,jobs=,state=free,netload=1533094711,gres=,loadave=0.00,ncpus=16,physmem=32918696kb,availmem=76273636kb,totmem=76880528kb,idletime=1054654,nusers=0,nsessions=0,uname=Linux n283 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n284
+     state = free
+     np = 16
+     properties = mem32,tmp,qdr
+     ntype = cluster
+     status = rectime=1384033212,varattr=,jobs=,state=free,netload=11923392408,gres=,loadave=0.03,ncpus=16,physmem=32918696kb,availmem=76274608kb,totmem=76880528kb,idletime=1054657,nusers=0,nsessions=0,uname=Linux n284 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n285
+     state = free
+     np = 16
+     properties = mem32,tmp,qdr
+     ntype = cluster
+     status = rectime=1384033242,varattr=,jobs=,state=free,netload=931358749,gres=,loadave=0.05,ncpus=16,physmem=32918696kb,availmem=76284660kb,totmem=76880528kb,idletime=1054700,nusers=0,nsessions=0,uname=Linux n285 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n286
+     state = free
+     np = 16
+     properties = mem32,tmp,qdr
+     ntype = cluster
+     status = rectime=1384033234,varattr=,jobs=,state=free,netload=1158100042,gres=,loadave=0.00,ncpus=16,physmem=32918696kb,availmem=76279500kb,totmem=76880528kb,idletime=1054724,nusers=0,nsessions=0,uname=Linux n286 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n287
+     state = free
+     np = 16
+     properties = mem32,tmp,qdr
+     ntype = cluster
+     status = rectime=1384033242,varattr=,jobs=,state=free,netload=870150679,gres=,loadave=0.00,ncpus=16,physmem=32918696kb,availmem=76287164kb,totmem=76880528kb,idletime=1054728,nusers=0,nsessions=0,uname=Linux n287 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n288
+     state = free
+     np = 16
+     properties = mem32,tmp,qdr
+     ntype = cluster
+     status = rectime=1384033246,varattr=,jobs=,state=free,netload=1416231105,gres=,loadave=0.00,ncpus=16,physmem=32918696kb,availmem=76282208kb,totmem=76880528kb,idletime=1054721,nusers=0,nsessions=0,uname=Linux n288 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n289
+     state = free
+     np = 16
+     properties = mem32,tmp,qdr
+     ntype = cluster
+     status = rectime=1384033222,varattr=,jobs=,state=free,netload=882144952,gres=,loadave=0.04,ncpus=16,physmem=32918696kb,availmem=73424352kb,totmem=76880528kb,idletime=1054696,nusers=0,nsessions=0,uname=Linux n289 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n290
+     state = free
+     np = 16
+     properties = mem32,tmp,qdr
+     ntype = cluster
+     status = rectime=1384033235,varattr=,jobs=,state=free,netload=921729697,gres=,loadave=0.01,ncpus=16,physmem=32918696kb,availmem=76284224kb,totmem=76880528kb,idletime=965549,nusers=0,nsessions=0,uname=Linux n290 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n291
+     state = free
+     np = 16
+     properties = mem32,tmp,qdr
+     ntype = cluster
+     status = rectime=1384033243,varattr=,jobs=,state=free,netload=11466569506,gres=,loadave=0.03,ncpus=16,physmem=32918696kb,availmem=73471884kb,totmem=76880528kb,idletime=1054686,nusers=0,nsessions=0,uname=Linux n291 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n292
+     state = free
+     np = 16
+     properties = mem32,tmp,qdr
+     ntype = cluster
+     status = rectime=1384033217,varattr=,jobs=,state=free,netload=10280832293,gres=,loadave=0.02,ncpus=16,physmem=32918696kb,availmem=75121832kb,totmem=76880528kb,idletime=1054679,nusers=0,nsessions=0,uname=Linux n292 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n293
+     state = free
+     np = 16
+     properties = mem32,tmp,qdr
+     ntype = cluster
+     status = rectime=1384033218,varattr=,jobs=,state=free,netload=1244053008,gres=,loadave=0.00,ncpus=16,physmem=32918696kb,availmem=76274100kb,totmem=76880528kb,idletime=1054706,nusers=0,nsessions=0,uname=Linux n293 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n294
+     state = free
+     np = 16
+     properties = mem32,tmp,qdr
+     ntype = cluster
+     status = rectime=1384033213,varattr=,jobs=,state=free,netload=2168152093,gres=,loadave=0.00,ncpus=16,physmem=32918696kb,availmem=72988132kb,totmem=76880528kb,idletime=1054670,nusers=0,nsessions=0,uname=Linux n294 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n295
+     state = free
+     np = 16
+     properties = mem32,tmp,qdr
+     ntype = cluster
+     status = rectime=1384033216,varattr=,jobs=,state=free,netload=25843222695,gres=,loadave=0.00,ncpus=16,physmem=32918692kb,availmem=75122908kb,totmem=76880524kb,idletime=1054660,nusers=0,nsessions=0,uname=Linux n295 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n296
+     state = free
+     np = 16
+     properties = mem32,tmp,qdr
+     ntype = cluster
+     status = rectime=1384033204,varattr=,jobs=,state=free,netload=1003005934,gres=,loadave=0.00,ncpus=16,physmem=32918696kb,availmem=76274588kb,totmem=76880528kb,idletime=983794,nusers=0,nsessions=0,uname=Linux n296 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n297
+     state = free
+     np = 16
+     properties = mem32,tmp,qdr
+     ntype = cluster
+     status = rectime=1384033238,varattr=,jobs=,state=free,netload=2525688881,gres=,loadave=0.00,ncpus=16,physmem=32918696kb,availmem=75120740kb,totmem=76880528kb,idletime=1054695,nusers=0,nsessions=0,uname=Linux n297 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n298
+     state = free
+     np = 16
+     properties = mem32,tmp,qdr
+     ntype = cluster
+     status = rectime=1384033233,varattr=,jobs=,state=free,netload=786065023,gres=,loadave=0.00,ncpus=16,physmem=32918696kb,availmem=76288724kb,totmem=76880528kb,idletime=1054686,nusers=0,nsessions=0,uname=Linux n298 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n299
+     state = free
+     np = 16
+     properties = mem32,tmp,qdr
+     ntype = cluster
+     status = rectime=1384033206,varattr=,jobs=,state=free,netload=879901412,gres=,loadave=0.02,ncpus=16,physmem=32918696kb,availmem=76287428kb,totmem=76880528kb,idletime=1054655,nusers=0,nsessions=0,uname=Linux n299 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n300
+     state = free
+     np = 16
+     properties = mem32,tmp,qdr
+     ntype = cluster
+     status = rectime=1384033218,varattr=,jobs=,state=free,netload=3673495988,gres=,loadave=0.00,ncpus=16,physmem=32918700kb,availmem=76277412kb,totmem=76880532kb,idletime=983809,nusers=0,nsessions=0,uname=Linux n300 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n301
+     state = free
+     np = 16
+     properties = mem32,tmp,qdr
+     ntype = cluster
+     status = rectime=1384033242,varattr=,jobs=,state=free,netload=856576715,gres=,loadave=0.00,ncpus=16,physmem=32918696kb,availmem=76284012kb,totmem=76880528kb,idletime=1054695,nusers=0,nsessions=0,uname=Linux n301 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n302
+     state = free
+     np = 16
+     properties = mem32,tmp,qdr
+     ntype = cluster
+     status = rectime=1384033231,varattr=,jobs=,state=free,netload=8887648349,gres=,loadave=0.02,ncpus=16,physmem=32918696kb,availmem=75128692kb,totmem=76880528kb,idletime=983821,nusers=0,nsessions=0,uname=Linux n302 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n303
+     state = free
+     np = 16
+     properties = mem32,tmp,qdr
+     ntype = cluster
+     status = rectime=1384033215,varattr=,jobs=,state=free,netload=927631223,gres=,loadave=0.00,ncpus=16,physmem=32918696kb,availmem=76279916kb,totmem=76880528kb,idletime=1054662,nusers=0,nsessions=0,uname=Linux n303 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n304
+     state = free
+     np = 16
+     properties = mem32,tmp,qdr
+     ntype = cluster
+     status = rectime=1384033236,varattr=,jobs=,state=free,netload=962760313,gres=,loadave=0.00,ncpus=16,physmem=32918696kb,availmem=76283168kb,totmem=76880528kb,idletime=1054690,nusers=0,nsessions=0,uname=Linux n304 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n305
+     state = free
+     np = 16
+     properties = mem32,tmp,qdr
+     ntype = cluster
+     status = rectime=1384033221,varattr=,jobs=,state=free,netload=5100623725,gres=,loadave=0.00,ncpus=16,physmem=32918696kb,availmem=74981044kb,totmem=76880528kb,idletime=1054667,nusers=0,nsessions=0,uname=Linux n305 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n306
+     state = free
+     np = 16
+     properties = mem32,tmp,qdr
+     ntype = cluster
+     status = rectime=1384033206,varattr=,jobs=,state=free,netload=1070890658,gres=,loadave=0.00,ncpus=16,physmem=32918696kb,availmem=76274096kb,totmem=76880528kb,idletime=1054655,nusers=0,nsessions=0,uname=Linux n306 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n307
+     state = free
+     np = 16
+     properties = mem32,tmp,qdr
+     ntype = cluster
+     status = rectime=1384033217,varattr=,jobs=,state=free,netload=1026840501,gres=,loadave=0.00,ncpus=16,physmem=32918696kb,availmem=74881928kb,totmem=76880528kb,idletime=1054668,nusers=0,nsessions=0,uname=Linux n307 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
+n308
+     state = free
+     np = 16
+     properties = mem32,tmp,qdr
+     ntype = cluster
+     status = rectime=1384033212,varattr=,jobs=,state=free,netload=909103153,gres=,loadave=0.02,ncpus=16,physmem=32918696kb,availmem=76285192kb,totmem=76880528kb,idletime=1054659,nusers=0,nsessions=0,uname=Linux n308 2.6.18-308.11.1.el5 #1 SMP Fri Jun 15 15:41:53 EDT 2012 x86_64,opsys=Linux,arch=AMD64
+     mom_service_port = 15002
+     mom_manager_port = 15003
+
