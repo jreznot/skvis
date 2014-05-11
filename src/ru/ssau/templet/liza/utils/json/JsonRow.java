@@ -42,4 +42,34 @@ public class JsonRow {
             }
         });
     }
+
+    public void pack() {
+        List<JsonPoint> packed = new ArrayList<>();
+
+        int i = 0;
+        while (i < 2 && i < points.size()) {
+            packed.add(points.get(i));
+            i++;
+        }
+
+        boolean prevEquals = false;
+        if (packed.size() == 2) {
+            prevEquals = packed.get(0).getValue() == packed.get(1).getValue();
+        }
+
+        while (i < points.size()) {
+            JsonPoint p = points.get(i);
+
+            boolean equals = p.getValue() == packed.get(packed.size() - 1).getValue();
+            if (prevEquals && equals) {
+                packed.remove(packed.size() - 1);
+            }
+            packed.add(p);
+
+            prevEquals = equals;
+            i++;
+        }
+
+        this.points = packed;
+    }
 }

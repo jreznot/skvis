@@ -25,7 +25,7 @@ object LoadParser {
     for (line <- scala.io.Source.fromInputStream(stream, StandardCharsets.UTF_8.name()).getLines()) {
       line match {
         case name if name.startsWith("n") =>
-          if (currentName != null) {
+          if (currentName != null && currentProperties != null) {
             nodeNames += ((currentName, currentProperties))
             nodes += new NodeDescriptor(currentName, currentProperties, currentState)
 
@@ -33,6 +33,8 @@ object LoadParser {
             currentState = null
           }
           currentName = name
+          currentProperties = null
+          currentState = null
 
         case state if state.contains("state = ") =>
           currentState = NodeState.parse(state.replace("state = ", "").trim)

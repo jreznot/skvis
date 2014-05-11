@@ -66,6 +66,7 @@ class JsLoadVisualizer(val jsonFile: File) extends LoadVisualizer {
     }
 
     rows.foreach(_._2.normalize())
+    rows.foreach(_._2.pack())
 
     val sortedRows = rows.values.toBuffer.sortWith((a, b) => a.getName.compareTo(b.getName) >= 0)
 

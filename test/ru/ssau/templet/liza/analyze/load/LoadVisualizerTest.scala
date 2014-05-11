@@ -2,7 +2,6 @@ package ru.ssau.templet.liza.analyze.load
 
 import org.junit.Test
 import java.io.File
-import ru.ssau.templet.liza.analyze._
 import scala.collection.JavaConverters._
 
 /**
@@ -14,16 +13,16 @@ class LoadVisualizerTest {
   def testWriteSampleJson() {
     val files = new File("C:\\temp\\data").listFiles()
     if (files != null) {
-      val timestamp = { file : File => experimentalDataFileNameFormat.parse(file.getName).getTime }
-      files.sortWith((a, b) => timestamp(a) >= timestamp(b))
-
       val points = new java.util.concurrent.ConcurrentLinkedQueue[ClusterDescriptor]
-      files.toList.par.foreach({file =>
+      files.toList.par.foreach({ file =>
         points.add(LoadParser.parse(file))
       })
 
+      val sortedPoints = points.asScala.toIndexedSeq.sortBy(f => f.timeStamp)
+      val packedPoints = LoadArchiver.pack(sortedPoints)
+
       val visualizer = new JsLoadVisualizer(new File("C:\\temp\\data.json"))
-      visualizer.show(points.asScala.toSeq)
+      visualizer.show(packedPoints)
     }
   }
 }
