@@ -12,9 +12,20 @@ import com.google.gson.Gson
 class JsLoadVisualizer(val jsonFile: File) extends LoadVisualizer {
 
   override def show(timeseries: Seq[ClusterDescriptor]) {
-    if (jsonFile.exists())
+    if (jsonFile.exists()) {
       jsonFile.delete()
+    }
 
+    val sortedRows = toJson(timeseries, pack = true)
+
+    val jsonData = new Gson().toJson(new util.ArrayList[JsonRow](scala.collection.JavaConversions.seqAsJavaList(sortedRows)))
+
+    val writer = new PrintWriter(jsonFile)
+    writer.write(jsonData)
+    writer.close()
+  }
+
+  def toJson(timeseries: Seq[ClusterDescriptor], pack: Boolean): Seq[JsonRow] = {
     val nodeNames = new mutable.HashSet[String]
     val groupMap = new mutable.HashMap[String, String]
     var groupSizes = new mutable.HashMap[String, Int]
@@ -24,7 +35,7 @@ class JsLoadVisualizer(val jsonFile: File) extends LoadVisualizer {
       groupMap ++= cd.nodes
     })
 
-    nodeNames.foreach( name => {
+    nodeNames.foreach(name => {
       val groupName = groupMap(name)
       groupSizes += ((groupName, groupSizes.getOrElse(groupName, 0) + 1))
     })
@@ -66,14 +77,10 @@ class JsLoadVisualizer(val jsonFile: File) extends LoadVisualizer {
     }
 
     rows.foreach(_._2.normalize())
-    rows.foreach(_._2.pack())
+    if (pack) {
+      rows.foreach(_._2.pack())
+    }
 
-    val sortedRows = rows.values.toBuffer.sortWith((a, b) => a.getName.compareTo(b.getName) >= 0)
-
-    val jsonData = new Gson().toJson(new util.ArrayList[JsonRow](scala.collection.JavaConversions.seqAsJavaList(sortedRows)))
-
-    val writer = new PrintWriter(jsonFile)
-    writer.write(jsonData)
-    writer.close()
+    rows.values.toBuffer.sortWith((a, b) => a.getName.compareTo(b.getName) >= 0)
   }
 }

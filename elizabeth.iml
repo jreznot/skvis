@@ -4,7 +4,7 @@
     <facet type="scala" name="Scala">
       <configuration>
         <option name="compilerLibraryLevel" value="Global" />
-        <option name="compilerLibraryName" value="scala-compiler.jar" />
+        <option name="compilerLibraryName" value="scala-compiler" />
       </configuration>
     </facet>
   </component>
@@ -17,17 +17,21 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="scala-library.jar" level="application" />
     <orderEntry type="module-library">
       <library>
         <CLASSES>
           <root url="file://$MODULE_DIR$/lib" />
         </CLASSES>
         <JAVADOC />
-        <SOURCES />
+        <SOURCES>
+          <root url="jar://C:/dev/libs/OpenForecast-0.5.0-src.jar!/OpenForecast-0.5.0/src" />
+          <root url="jar://C:/dev/libs/OpenForecast-0.5.0-src.jar!/OpenForecast-0.5.0/test" />
+          <root url="jar://C:/dev/libs/OpenForecast-0.5.0-src.jar!/OpenForecast-0.5.0/examples" />
+        </SOURCES>
         <jarDirectory url="file://$MODULE_DIR$/lib" recursive="false" />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="scala-library" level="application" />
   </component>
 </module>
 

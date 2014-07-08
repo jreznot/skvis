@@ -53,15 +53,16 @@ object LoadParser {
     val groups = new mutable.HashSet[String]
 
     for (node <- nodes) {
+      val nodeProperties = node.properties
       node.state match {
-        case NodeState.Free => freeMap.put(node.properties, freeMap.getOrElse(node.properties, 0) + 1)
-        case NodeState.Down => downMap.put(node.properties, downMap.getOrElse(node.properties, 0) + 1)
-        case NodeState.JobExclusive => jobExclusiveMap.put(node.properties, jobExclusiveMap.getOrElse(node.properties, 0) + 1)
+        case NodeState.Free => freeMap.put(nodeProperties, freeMap.getOrElse(nodeProperties, 0) + 1)
+        case NodeState.Down => downMap.put(nodeProperties, downMap.getOrElse(nodeProperties, 0) + 1)
+        case NodeState.JobExclusive => jobExclusiveMap.put(nodeProperties, jobExclusiveMap.getOrElse(nodeProperties, 0) + 1)
         case _ =>
       }
 
-      if (!groups.contains(node.properties)) {
-        groups += node.properties
+      if (!groups.contains(nodeProperties)) {
+        groups += nodeProperties
       }
     }
 
